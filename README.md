@@ -232,6 +232,9 @@ http://localhost:3000/api-docs
 
 ---
 
+## postman test link
+https://prince-5593.postman.co/workspace/My-Workspace~071b0a07-a596-44c4-88e0-ed1df7787c0b/collection/41659374-e88df6d8-e400-45ed-9892-2765d6016504?action=share&creator=41659374
+
 ## Author
 
 Prince Kumar
